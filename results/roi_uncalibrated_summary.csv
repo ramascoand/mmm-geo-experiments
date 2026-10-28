@@ -1,0 +1,4 @@
+channel,model,p05,median,p95,true_roi,covers_truth
+tv,default priors,2.54,2.91,3.31,2.68,True
+search,default priors,6.67,7.26,7.88,2.98,False
+social,default priors,0.66,2.22,11.63,1.2,True

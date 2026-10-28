@@ -1,0 +1,7 @@
+model,channel,p05,median,p95,true_roi
+uncalibrated,tv,2.54,2.91,3.31,2.68
+uncalibrated,search,6.67,7.26,7.88,2.98
+uncalibrated,social,0.66,2.22,11.63,1.2
+calibrated with geo test,tv,3.17,3.69,4.28,2.68
+calibrated with geo test,search,3.05,3.19,3.32,2.98
+calibrated with geo test,social,0.48,2.46,11.47,1.2
